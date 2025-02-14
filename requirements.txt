@@ -1,0 +1,9 @@
+kafka-python
+pyspark
+fastapi
+uvicorn
+openai
+pandas
+streamlit
+sqlite3
+sqlalchemy
